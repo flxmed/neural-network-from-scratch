@@ -1,2 +1,9 @@
 # neural-network-from-scratch
-Make AI Image Classifier From Scratch Without Any Frameworks
+✅ NumPy only
+
+❌ No PyTorch
+
+❌ No autograd
+
+✅ Everything written by me
+
