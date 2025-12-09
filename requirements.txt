@@ -2,3 +2,8 @@ numpy
 matplotlib
 pillow
 jupyterlab
+math
+requests
+tqdm
+argparse
+os
